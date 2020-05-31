@@ -1,12 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 30 18:41:44 2018
-
-@author: Rony Sulca
-"""
-
 import pandas as pd
-#import numpy as np
+import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sn
 import random

@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Sep 30 16:41:28 2018
-
-@author: Rony Sulca
-"""
-
 #### Importing Libraries ####
 
 import pandas as pd
